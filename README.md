@@ -5,7 +5,7 @@ The goal of this exercise is to build your own Ethereum-based ERC20 token and st
 The code of token will be written in Solidity. Before we get started, MetaMask must be installed. Throughout this project, we will use Ropsten Testnet.
 
 ## Requirements
-* MetaMask
+MetaMask
 
 ## Network
 Ropsten Testnet
